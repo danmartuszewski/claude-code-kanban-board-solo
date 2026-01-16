@@ -2,7 +2,9 @@
 
 A lightweight Kanban board system designed for solo developers using [Claude Code](https://claude.ai/code). Your tasks live in a simple `TASKS.md` file - version controlled, human-readable, always with you.
 
-<!-- TODO: Add demo GIF/screenshot here -->
+[![Demo Video](https://img.youtube.com/vi/ZeLE6clxl90/maxresdefault.jpg)](https://youtu.be/ZeLE6clxl90)
+
+▶️ **[Watch the demo](https://youtu.be/ZeLE6clxl90)**
 
 ## Perfect For
 
@@ -160,9 +162,6 @@ This repo includes an example portfolio website (`index.html`) with sample tasks
 3. See the example tasks in the Backlog
 4. Move a task to "To Do" and watch Claude start working on it
 
-<!-- ## Video Demo -->
-
-<!-- TODO: Add YouTube embed link here -->
 
 ## Requirements
 
