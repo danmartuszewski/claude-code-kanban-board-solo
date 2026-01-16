@@ -1,0 +1,19 @@
+# Claude runs log
+claude-runs.log
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+.idea
+
+*.local.json

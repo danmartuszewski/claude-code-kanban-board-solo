@@ -1,0 +1,5 @@
+{
+  "autorunEnabled": true,
+  "claudeBin": "claude",
+  "logPath": "claude-runs.log"
+}
