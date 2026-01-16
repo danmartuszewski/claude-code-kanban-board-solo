@@ -142,7 +142,7 @@ Edit `taskboard.config.json` to customize behavior:
 ```json
 {
   "autorunEnabled": true,
-  "claudeBin": "claude",
+  "claudeBin": "claude --permission-mode=acceptEdits -p",
   "logPath": "claude-runs.log"
 }
 ```
