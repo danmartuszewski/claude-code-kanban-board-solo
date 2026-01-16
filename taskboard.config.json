@@ -1,5 +1,5 @@
 {
   "autorunEnabled": true,
-  "claudeBin": "claude",
+  "claudeBin": "claude --permission-mode=acceptEdits -p",
   "logPath": "claude-runs.log"
 }
