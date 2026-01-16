@@ -1,4 +1,4 @@
-# Claude Kanban Board for Solo Developers
+# Claude Code Kanban Board for Solo Developers
 
 A lightweight Kanban board system designed for solo developers using [Claude Code](https://claude.ai/code). Your tasks live in a simple `TASKS.md` file - version controlled, human-readable, always with you.
 
@@ -31,7 +31,7 @@ A lightweight Kanban board system designed for solo developers using [Claude Cod
 ### Option A: Clone and Customize (Recommended for new projects)
 
 ```bash
-git clone https://github.com/danmartuszewski/claude-kanban-board-solo.git my-project
+git clone https://github.com/danmartuszewski/claude-code-kanban-board-solo.git my-project
 cd my-project
 # Edit TASKS.md to add your own tasks
 ```
